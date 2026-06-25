@@ -1,0 +1,1 @@
+console.log("Xin chào, đây là file bài tập của HuongNTN17");
